@@ -1,0 +1,20 @@
+{
+  "name": "netland-recruitment",
+  "version": "0.0.0",
+  "authors": [
+    "demboo <demboo@tlen.pl>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "~1.11.4",
+    "jquery": "~2.2.3",
+    "moment": "~2.12.0"
+  }
+}

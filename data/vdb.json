@@ -1,0 +1,42 @@
+{
+	"1": {
+		"name": "testowy sharing",
+		"avatar": "",
+		"location": "Franciszka Barcza, Jaroty, Olsztyn, województwo warmińsko-mazurskie, 10-685, Polska",
+		"latlng": {
+			"lat": 53.747594192484364,
+			"lng": 20.50374984741211
+		}, 
+		"timestamp":1448928000
+	},
+	"2": {
+		"name": "Mój samochód",
+		"avatar": "",
+		"location": "",
+		"latlng": {
+			"lng": 0,
+			"lat": 0
+		}, 
+		"timestamp":1448928000
+	},
+	"3": {
+		"name": "Mój dom",
+		"avatar": "",
+		"location": "Warszawa, Polska",
+		"latlng": {
+			"lng": 21.012228700000037,
+			"lat": 52.2296756
+		}, 
+		"timestamp":1425945600
+	},
+	"4": {
+		"name": "WGM5HK2",
+		"avatar": "",
+		"location": "",
+		"latlng": {
+			"lat": 54.4506048,
+			"lng": 17.023184
+		}, 
+		"timestamp":1425254400
+	}
+}
